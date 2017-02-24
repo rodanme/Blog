@@ -20,8 +20,8 @@ The casual atmosphere and the easy going, friendly nature of the speakers made t
 
 
 <figure class="half">
-    <a href="/Blog/images/WH8Makers.jpg"><img src="/Blog/images/WH8Makers.jpg"></a>
-    <a href="/Blog/images/WH8Venue.jpg"><img src="/Blog/images/WH8Venue.jpg"></a>
+    <a href= "assets/img/WH8Makers.jpg"><img src="assets/img/WH8Makers.jpg"></a>
+    <a href="assets/img/WH8Venue.jpg"><img src="assets/img/WH8Venue.jpg"></a>
     <figcaption>Left: The wonderful people behind the event! Right: Warehouse 8</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ The best part of the meeting for me was lunch, it was free and I talked with Jes
 
 
 <figure>
-    <a href="/Blog/images/PAPOmeeting.jpg"><img src="/Blog/images/PAPOmeeting.jpg"></a>
+    <a href="assets/img/PAPOmeeting.jpg"><img src="assets/img/PAPOmeeting.jpg"></a>
     <figcaption>PAPO board members celebrating Tita Girlie's Birthday! I was not ready for the picture...</figcaption>
 </figure>
 
