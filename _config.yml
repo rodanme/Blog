@@ -7,7 +7,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               '/Blog/assets/img/kick-logo.png'
 background:         '/Blog/assets/img/Manila Skyline.png'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://rodanme.github.io/Blog
 
