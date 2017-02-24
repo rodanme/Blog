@@ -5,8 +5,8 @@ description:        'Passionate about family, Filipino culture, and mental healt
 
 reading_time:       true
 words_per_minute:   200
-logo:               'Blog/assets/img/kick-logo.png'
-background:         'Blog/assets/img/Tricycle.jpg'
+logo:               '/Blog/assets/img/kick-logo.png'
+background:         '/Blog/assets/img/Tricycle.png'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://rodanme.github.io/Blog
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   rodanme
 
 # Social
 # if you don't have any of social below, comment the line.
