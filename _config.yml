@@ -6,7 +6,7 @@ description:        'Passionate about family, Filipino culture, and mental healt
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/kick-logo.png'
-background:         'assets/img/Tricycle.png'
+background:         'assets/img/manila-skyline.png.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://rodanme.github.io/Blog
@@ -41,7 +41,7 @@ disqus_shortname:   rodanme
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+#github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -51,7 +51,7 @@ instagram:          username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
