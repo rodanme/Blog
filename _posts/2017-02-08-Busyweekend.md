@@ -22,7 +22,7 @@ The casual atmosphere and the easy going, friendly nature of the speakers made t
 <figure class="half">
     <a href= "/Blog/assets/img/WH8Makers.jpg"><img src="/Blog/assets/img/WH8Makers.jpg"></a>
     <a href="/Blog/assets/img/WH8Venue.jpg"><img src="/Blog/assets/img/WH8Venue.jpg"></a>
-    <figcaption>Left: The wonderful people behind the event! Right: Warehouse 8</figcaption>
+    <figcaption></figcaption>
 </figure>
 
 I have been working on getting more involved with patient education and advocacy and I think I have found the place to do it. The Philippine Alliance of Patient Organizations (PAPO) had a board meeting last Saturday to begin planning their strategies for the year and I was invited to sit in and document the meeting. Each of the members were heads of their advocacy groups such as diabetes, hepatitis C, and cerebral palsy. Over the years, I have participated in various organizations in different capacities and gone through countless planning meetings but never anything on this scale. I did not expect the meeting to go on for five and half hours but it was time well spent. The majority of the meeting centered on how to manage PAPO’s current stakeholders, and how to convince institutional bodies and members to co-create strategies with PAPO and develop ownership in the organization. It was a lot of new vocabulary. I’m a geek when it comes to learning though and the concepts are applicable to what I want to accomplish here.
