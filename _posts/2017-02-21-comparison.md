@@ -38,7 +38,7 @@ A common hypothetical question in medical school interviews: save a dying girl w
  
 
 <figure>
-    <a href="assets/img/hotairballoon.jpg"><img src="assets/img/hotairballoon.jpg"></a>
+    <a href="Blog/assets/img/hotairballoon.jpg"><img src="Blog/assets/img/hotairballoon.jpg"></a>
     <figcaption>21st International Hot Air Balloon Festival </figcaption>
     </figure>
 
