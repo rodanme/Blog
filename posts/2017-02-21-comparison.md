@@ -46,4 +46,4 @@ A common hypothetical question in medical school interviews: save a dying girl w
 
  Taco Bell opening up next door
  
- Day Drinking with friends
+ Day drinking with friends
